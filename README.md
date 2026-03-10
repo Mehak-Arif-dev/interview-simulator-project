@@ -93,11 +93,4 @@ Developed by Mehak — Fullstack Developer passionate about recruiter-ready apps
 
 ---
 
-## ✅ Result
-- Ab README clearly batata hai ke **Python backend use ho raha hai**.  
-- Ye bhi mention hai ke **APIs expire ho jaati hain aur purchase karni padti hai**.  
-- Recruiter ko transparent aur professional impression milega.  
-
----
-
 
