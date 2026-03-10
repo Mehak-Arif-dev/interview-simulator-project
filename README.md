@@ -20,18 +20,20 @@ It simulates recruiter-style interviews where users can log in, answer common in
 - **Polished UI** → TailwindCSS styling with recruiter-ready theme.
 
 ## 📸 Screenshots
+## 📸 Screenshots
 
 ### Home Screen 1
-![Home Screen 1](interview-simulator/screenshots/Home1.png)
+![Home Screen 1](interview-simulator/screenshots/home1.png)
 
 ### Home Screen 2
-![Home Screen 2](interview-simulator/screenshots/Home2.png)
+![Home Screen 2](interview-simulator/screenshots/home2.png)
 
 ### Login Screen
-![Login Screen](interview-simulator/screenshots/Login(2).png)
+![Login Screen](interview-simulator/screenshots/login1.png)
 
 ### Recruiter Feedback
-![Feedback Screen](interview-simulator/screenshots/Feedback.png)
+![Feedback Screen](interview-simulator/screenshots/feedback.png)
+
 
 ---
 
